@@ -1,1 +1,1 @@
-# airpot-predictor
+# AirPoT REST API
